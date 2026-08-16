@@ -38,7 +38,7 @@ This project was built as a practical, full-stack academic exercise to demonstra
 ## ✨ Features
 ### 🔑 Authentication
 - Single login portal with **role-based redirection** (Admin / Teacher / Student)
-- Session-based access control — protected routes redirect unauthenticated users to login
+- Session-based access control, protected routes redirect unauthenticated users to login
 - Secure logout with session destruction
 
 ### 🛠️ Admin Dashboard
