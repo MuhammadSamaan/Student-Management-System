@@ -6,7 +6,6 @@ A role-based **Student Management System** built with **PHP** and **MySQL**, des
 ![Login Page](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%201.JPG)
 ![Admin Dashboard](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%202.JPG)
 ![Add Student](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%203.JPG)
-![Manage Student](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%2020.JPG)!
 ![Manage Student](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%205.JPG)
 ![Add Teacher](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%206.JPG)
 ![Manage Teacher](https://github.com/MuhammadSamaan/Student-Management-System/blob/main/Output%20Images/SMS%20img%208.JPG)
